@@ -1,0 +1,28 @@
+name: RobinDavisNZ
+favicon: null
+layout_spectrum: 0.2297029651235789
+typography_spectrum: 0.15087005030363798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.21752832923084497
+  rhythmicContrast: 0.75
+purpose: []
