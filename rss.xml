@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portfolio]]></title>
         <description><![CDATA[Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robindavisnz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 00:18:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 23:02:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robindavisnz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scraps of my day]]></title>
+            <description><![CDATA[<article><h1>Scraps of my day</h1><p>what the client wants, the client gets...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decae77a7670a0b4523c2be0bf6c2d278facc693.jpg"></article>]]></description>
+            <link>https://thegrid.ai/robindavisnz/scraps-of-my-day/index.html</link>
+            <guid isPermaLink="false">834613f3-e217-4a39-8e4d-1290dea6be85</guid>
+            <pubDate>Tue, 05 Jan 2016 23:02:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c9de20b-2ac4-40d0-92e6-b9552679620b.jpg">]]></description>
-            <link>undefined4142ccb4-33f4-46f9-a568-2cd21799c2ad/index.html</link>
+            <link>https://thegrid.ai/robindavisnz/4142ccb4-33f4-46f9-a568-2cd21799c2ad/index.html</link>
             <guid isPermaLink="false">4142ccb4-33f4-46f9-a568-2cd21799c2ad</guid>
             <pubDate>Thu, 31 Dec 2015 00:18:25 GMT</pubDate>
         </item>
